@@ -1,0 +1,2 @@
+# Project-proposal-prediction
+在kaggle上的一个预测教师提交的DonorsChoose.org项目提案是否会得到批准的比赛
